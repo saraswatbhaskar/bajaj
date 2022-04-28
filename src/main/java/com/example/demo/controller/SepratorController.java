@@ -28,3 +28,4 @@ public class SepratorController {
         return sepratorService.separator(Arrays.asList(data.getData()));
     }
 }
+
